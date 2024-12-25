@@ -1,3 +1,6 @@
+#Name=Kamaljeet Singh
+#UID=22BCS10201
+#Code of making Happiness tracker using python.
 import datetime
 
 # Initialize an empty list to store daily happiness scores
